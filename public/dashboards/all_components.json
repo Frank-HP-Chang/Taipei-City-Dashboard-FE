@@ -5,7 +5,7 @@
 			"index": "temperature",
 			"chart_config": {
 				"color": ["#2e999b", "#80e3d4", "#1f9b85", "#a5ece0"],
-				"types": ["DistrictChart", "ColumnChart", "BarPercentChart"],
+				"types": ["DistrictChart", "ColumnChart"],
 				"unit": "°C",
 				"categories": [
 					"北投區",
