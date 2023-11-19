@@ -15,7 +15,7 @@
 		{
 			"name": "綠化",
 			"index": "green",
-			"components": ["60", "142", "143", "144", "145", "146", "147"],
+			"components": ["110"],
 			"icon": "stream"
 		},
 		{
