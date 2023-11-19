@@ -162,6 +162,14 @@
 					"title": "公有土地"
 				}
 			],
+			"map_filter": [
+				"c_name",
+				[
+					"10_14",
+					"15-19",
+					"20+"
+				]
+			],
 			"chart_config": {
 				"color": [
 					"#2d7b7d",
