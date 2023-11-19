@@ -3,7 +3,7 @@
 		{
 			"name":"天氣",
 			"index":"weather",
-			"components":["9001"],
+			"components":["9001","9002"],
 			"icon":"wb_sunny"
 		},
 		{
