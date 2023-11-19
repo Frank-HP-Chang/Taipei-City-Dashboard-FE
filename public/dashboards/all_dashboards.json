@@ -13,10 +13,28 @@
 			"icon":"bungalow"
 		},
 		{
-			"name":"綠化",
-			"index":"green",
-			"components":["110"],
-			"icon":"tree"
+			"name": "YouBike研究",
+			"index": "youbike",
+			"components": ["60", "142", "143", "144", "145", "146", "147"],
+			"icon": "pedal_bike"
+		},
+		{
+			"name": "民情熱議",
+			"index": "public-opinion",
+			"components": ["5", "72"],
+			"icon": "mic"
+		},
+		{
+			"name": "社會安全",
+			"index": "security",
+			"components": ["8", "7", "83", "22", "107"],
+			"icon": "security"
+		},
+		{
+			"name": "交通運輸",
+			"index": "transport",
+			"components": ["73", "116", "114", "79", "60", "57", "26"],
+			"icon": "train"
 		},
 		{
 			"name": "城市建設",
