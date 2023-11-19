@@ -54,6 +54,79 @@
 			"contributors": ["都是我不隊"]
 		},
 
+		"8001": {
+			"id": 8001,
+			"index": "building_cnt",
+			"map_config": [
+				{
+					"index": "floor",
+					"paint": {
+						"fill-color": [
+							"match",
+							["get", "publand_1_土地權屬情形"],
+							"國有",
+							"#2d7b7d",
+							"臺北市有",
+							"#38b19f",
+							"公私共有",
+							"#07a0d4",
+							"臺北市及國有共有",
+							"#27d5d7",
+							"其他政府機關有",
+							"#007aff",
+							"臺北市有、國有及其他政府機關共有",
+							"#3975b7",
+							"臺北市有及非國有政府機關共有",
+							"#223477",
+							"#ccc"
+						]
+					},
+					"property": [
+						{
+							"key": "thename",
+							"name": "名稱"
+						},
+						{
+							"key": "publand_1_類型",
+							"name": "類型"
+						},
+						{
+							"key": "publand_1_土地權屬情形",
+							"name": "土地權屬情形"
+						}
+					],
+					"type": "fill",
+					"title": "公有土地"
+				}
+			],
+			"chart_config": {
+				"color": [
+					"#2d7b7d",
+					"#38b19f",
+					"#07a0d4",
+					"#27d5d7",
+					"#007aff",
+					"#3975b7",
+					"#223477"
+				],
+				"types": ["BarChart", "TreemapChart"],
+				"unit": "km²"
+			},
+			"name": "公有土地",
+			"source": "地政局",
+			"time_from": "2023-06-02T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "day",
+			"short_desc": "顯示全市公有土地的類型和總面積",
+			"long_desc": "顯示全市公有土地的類型和總面積，資料來源為工務局，每月更新。",
+			"use_case": "圖表涵蓋國有、市有、公私共有土地類型，同時包含道路面積的統計，這能讓我們對台北市公有土地的類型與總面積有更清晰的了解。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=ca644935-035e-4ecf-bd93-3d8df351bdb7"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
 		"5": {
 			"id": 5,
 			"index": "circular",

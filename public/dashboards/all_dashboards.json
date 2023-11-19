@@ -7,6 +7,12 @@
 			"icon":"wb_sunny"
 		},
 		{
+			"name":"大樓",
+			"index":"building",
+			"components":["8001"],
+			"icon":"building"
+		},
+		{
 			"name": "YouBike研究",
 			"index": "youbike",
 			"components": ["60", "142", "143", "144", "145", "146", "147"],
