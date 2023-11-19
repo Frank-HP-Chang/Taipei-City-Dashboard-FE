@@ -139,7 +139,7 @@
 							"name": "土地權屬情形"
 						}
 					],
-					"type": "fill",
+					"type": "heatmap",
 					"title": "公有土地"
 				}
 			],
