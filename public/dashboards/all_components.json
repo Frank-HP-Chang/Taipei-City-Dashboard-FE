@@ -53,8 +53,8 @@
 			"tags": [],
 			"contributors": ["都是我不隊"]
 		},
-		"9002":{			
-			"id": 9002,
+		"5":{			
+			"id": 5,
 			"index": "his_temperature",
 			"map_config": null,
 			"history_data": true,
@@ -198,8 +198,8 @@
 			"tags": [],
 			"contributors": ["tuic"]
 		},
-		"5": {
-			"id": 5,
+		"54": {
+			"id": 54,
 			"index": "circular",
 			"map_config": null,
 			"history_data": true,
