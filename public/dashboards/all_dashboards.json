@@ -11,12 +11,6 @@
 			"index":"building",
 			"components":["8001","8002"],
 			"icon":"bungalow"
-		},
-		{
-			"name":"綠化",
-			"index":"green",
-			"components":["110"],
-			"icon":"tree"
 		}
 
 	]
