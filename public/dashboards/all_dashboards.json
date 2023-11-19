@@ -9,7 +9,7 @@
 		{
 			"name":"大樓",
 			"index":"building",
-			"components":["8001"],
+			"components":["8001","8002"],
 			"icon":"building"
 		},
 		{
