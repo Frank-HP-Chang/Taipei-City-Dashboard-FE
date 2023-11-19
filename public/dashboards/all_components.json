@@ -55,34 +55,34 @@
 		},
 		"9002":{			
 			"id": 9002,
-		"index": "circular",
-		"map_config": null,
-		"history_data": true,
-		"chart_config": {
-			"color": [
-				"#C5E1A5",
-				"#ADED64",
-				"#7BB661",
-				"#479562",
-				"#357664",
-				"#00563F",
-				"#04432C"
-			],
-			"types": ["DonutChart", "BarChart"],
-			"unit": "件"
-		},
-		"name": "臺北市陳情系統",
-		"source": "臺北市陳情系統",
-		"time_from": "2023-05-28T00:00:00+08:00",
-		"time_to": "2023-06-01T00:00:00+08:00",
-		"update_freq": 1,
-		"update_freq_unit": "day",
-		"short_desc": "顯示近一週從週一起臺北市陳情系統所接收到的陳情案件",
-		"long_desc": "顯示近一週從週一起臺北市陳情系統所接收到的陳情案件，資料來源為臺北市陳情系統內部資料，每天更新，並提供一年內每個月的陳情案件總數資料。",
-		"use_case": "透過陳情案件的統計資訊，我們可以追蹤近一週內台北市各行政區收到的陳情案件，也可了解一年內每個月的陳情案件總數變化。",
-		"links": null,
-		"tags": [],
-		"contributors": ["tuic"]
+			"index": "his_temperature",
+			"map_config": null,
+			"history_data": true,
+			"chart_config": {
+				"color": [
+					"#C5E1A5",
+					"#ADED64",
+					"#7BB661",
+					"#479562",
+					"#357664",
+					"#00563F",
+					"#04432C"
+				],
+				"types": ["DonutChart", "BarChart"],
+				"unit": "件"
+			},
+			"name": "台北市歷史溫度",
+			"source": "中央氣象局",
+			"time_from": "1月",
+			"time_to": "12月",
+			"update_freq": 1,
+			"update_freq_unit": "day",
+			"short_desc": "顯示近一週從週一起臺北市陳情系統所接收到的陳情案件",
+			"long_desc": "顯示近一週從週一起臺北市陳情系統所接收到的陳情案件，資料來源為臺北市陳情系統內部資料，每天更新，並提供一年內每個月的陳情案件總數資料。",
+			"use_case": "透過陳情案件的統計資訊，我們可以追蹤近一週內台北市各行政區收到的陳情案件，也可了解一年內每個月的陳情案件總數變化。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
 	},
 		"8002": {
 			"id": 8002,
