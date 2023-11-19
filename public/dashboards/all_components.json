@@ -124,7 +124,7 @@
 				]
 			},
 			"name": "頂樓加蓋",
-			"type":"heatmap",
+			"type":"hillshade",
 			"history_data": false,
 			"source": "都市更新處",
 			"time_from": "2023-05-02T08:00:18+08:00",
