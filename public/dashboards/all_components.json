@@ -146,8 +146,8 @@
 					"index": "floor",
 					"property": [
 						{
-							"key": "thename",
-							"name": "名稱"
+							"key": "c_name",
+							"name": "行政區"
 						},
 						{
 							"key": "publand_1_類型",
