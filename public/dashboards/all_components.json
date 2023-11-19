@@ -55,7 +55,7 @@
 		},
 		"9002":{			
 			"id": 9002,
-			"index": "circular",
+			"index": "his_temperature",
 			"map_config": null,
 			"history_data": true,
 			"chart_config": {
@@ -124,6 +124,7 @@
 				]
 			},
 			"name": "頂樓加蓋",
+			"type":"heatmap",
 			"history_data": false,
 			"source": "都市更新處",
 			"time_from": "2023-05-02T08:00:18+08:00",
@@ -170,7 +171,7 @@
 							"name": "土地權屬情形"
 						}
 					],
-					"type": "fill",
+					"type": "heatmap",
 					"title": "公有土地"
 				}
 			],
