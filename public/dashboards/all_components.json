@@ -55,7 +55,7 @@
 		},
 		"9002":{			
 			"id": 9002,
-			"index": "his_temperature",
+			"index": "circular",
 			"map_config": null,
 			"history_data": true,
 			"chart_config": {
