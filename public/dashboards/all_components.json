@@ -1,5 +1,59 @@
 {
 	"data": {
+		"9001": {
+			"id": 9001,
+			"index": "temperature",
+			"chart_config": {
+				"color": ["#2e999b", "#80e3d4", "#1f9b85", "#a5ece0"],
+				"types": ["DistrictChart", "ColumnChart", "BarPercentChart"],
+				"unit": "°C",
+				"categories": [
+					"北投區",
+					"士林區",
+					"內湖區",
+					"南港區",
+					"松山區",
+					"信義區",
+					"中山區",
+					"大同區",
+					"中正區",
+					"萬華區",
+					"大安區",
+					"文山區"
+				],
+				"map_filter": [
+					"dist",
+					[
+						"北投區",
+						"士林區",
+						"內湖區",
+						"南港區",
+						"松山區",
+						"信義區",
+						"中山區",
+						"大同區",
+						"中正區",
+						"萬華區",
+						"大安區",
+						"文山區"
+					]
+				]
+			},
+			"name": "各區溫度",
+			"history_data": false,
+			"source": "中央氣象局",
+			"time_from": "2023-05-02T08:00:18+08:00",
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示社會福利人口（身障、低收、中低收、低收身障）的比例",
+			"long_desc": "顯示社會福利人口（身障、低收、中低收、低收身障）的比例，資料來源為台北市社會局內部資料，每月15號更新。",
+			"use_case": "社福人口比例的資料能讓我們了解台北市社會福利的需求變化，從而規劃更貼近民眾需求的社會福利措施。",
+			"links": null,
+			"tags": [],
+			"contributors": ["都是我不隊"]
+		},
+
 		"5": {
 			"id": 5,
 			"index": "circular",

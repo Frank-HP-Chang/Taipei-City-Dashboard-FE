@@ -22,7 +22,7 @@ pnpm-debug.log*
 *.sln
 *.sw?
 node_modules
-
+tp_building_height84.geojson
 # Firebase
 /.firebase
 .firebase
