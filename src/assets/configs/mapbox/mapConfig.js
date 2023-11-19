@@ -198,8 +198,6 @@ export const maplayerCommonPaint = {
 	"fill-extrusion": {
 		"fill-extrusion-opacity": 0.5,
 	},
-	heatmap: {
-	},
 	fill: {
 		"fill-opacity": [
 			"interpolate",
