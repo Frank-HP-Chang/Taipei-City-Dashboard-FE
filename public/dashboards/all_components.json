@@ -144,19 +144,6 @@
 			"map_config": [
 				{
 					"index": "floor",
-					"paint": {
-						"fill-color": [
-							"match",
-							["get", "publand_1_土地權屬情形"],
-							"10-14",
-							"#2d7b7d",
-							"15-19",
-							"#38b19f",
-							"20+",
-							"#07a0d4",
-							"#ccc"
-						]
-					},
 					"property": [
 						{
 							"key": "thename",
